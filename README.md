@@ -1,0 +1,2 @@
+# tradingbot
+Technical analysis 
